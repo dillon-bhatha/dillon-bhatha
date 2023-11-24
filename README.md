@@ -1,6 +1,6 @@
 # **Hi there** 👋
 
-## **dillon-bhatha** is a ✨* _special_place_ *✨
+## **dillon-bhatha** is a ✨*special_place*✨
 
 - 🌱 I’m currently learning how to program and make websites
 - 💬 Ask me about music
